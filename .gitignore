@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Local MLflow run files (usually too heavy for Git)
+mlruns/
+.mlflow/
+
+# OS/IDE system files
+.DS_Store
+.vscode/
+.idea/
